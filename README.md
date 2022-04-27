@@ -94,12 +94,6 @@ Stellar OS Weeb Edition 1.1 Beru EOL
 official A10
 =====
 
-Lineage OS 17.1
------
-* [XDA](https://forum.xda-developers.com/t/rom-10-official-lineage-os-17-1.3871409/)
-* [Download](https://download.lineageos.org/griffin) (dead)
-* thanks to @erfanoabdi
-
 Lineage OS 17.1 Micro G
 -----
 * [Download](https://download.lineage.microg.org/griffin/)
@@ -116,6 +110,12 @@ Mokee OS 100
 Divest OS 17.1
 -----
 * [Download](https://divestos.org/index.php?page=devices&base=LineageOS#device-griffin)
+
+Lineage OS 17.1 EOL
+-----
+* [XDA](https://forum.xda-developers.com/t/rom-10-official-lineage-os-17-1.3871409/)
+* [Download](https://lineageosroms.com/griffin/)       
+* thanks to @erfanoabdi
 
 
 unofficial A10
