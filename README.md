@@ -171,6 +171,7 @@ official TWRP 3.3.1
 -----
 * [Download](https://dl.twrp.me/griffin/)
 
-unofficial TWRP 3.6.0_9
+unofficial TWRP 3.6.2_9
 -----
-* [Download] (https://builds.hermies.net/griffin/)
+* [Download] (https://github.com/batuhantrkgl/ItzKaguya-RecoveryBuilder/releases/download/2963104012/recovery.img)
+* thanks to @batuhantrkgl
