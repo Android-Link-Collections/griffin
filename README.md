@@ -122,8 +122,9 @@ unofficial A10
 
 CarbonROM 8.0
 -----
-* [Telegram changelog](https://t.me/c/1510507635/2271)
-* [Download](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/CarbonROM/CARBON-CR-8.0-PAX-UNOFFICIAL-griffin-20220524-2004.zip/download)
+* [XDA](https://forum.xda-developers.com/t/rom-10-carbonrom-cr-8-0-for-griffin-unofficial-22sep.4494177/)
+* [Telegram changelog](https://t.me/rgb_roms/22)
+* [Download](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/CarbonROM/)
 * built by me
 
 CrDroid 6.12 EOL
