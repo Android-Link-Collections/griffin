@@ -138,6 +138,12 @@ CarbonROM 8.0
 * [Download](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/CarbonROM/)
 * built by me
 
+ResurrectionRemix Revived 8.7.14
+-----
+* [Telegram changelog](https://t.me/rgb_roms/16)
+* [Dowload](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/Resurrection_Remix/RROS-Q-8.7.14-20220911-griffin-Unofficial.zip/download)
+* built by me
+
 CrDroid 6.12 EOL
 -----
 * [XDA](https://forum.xda-developers.com/t/rom-10-x-griffin-crdroid-4-5-and-6-unofficial-8-x-9-x-and-10-x.3689230/)
