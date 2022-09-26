@@ -3,6 +3,17 @@
 Android
 ======
 
+unofficial A12.1
+=====
+
+LineageOS 19.1 BETA
+=====
+* [XDA](https://forum.xda-developers.com/t/rom-12-1-lineageos-19-1-beta-for-griffin-unofficial-21sep.4496379/)
+* [Telegram changelog](https://t.me/rgb_roms/20)
+* [Download](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/Lineage_OS/)
+* built by me
+
+
 official A11
 =====
 
