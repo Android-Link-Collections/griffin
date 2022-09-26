@@ -39,21 +39,6 @@ Lineage OS 18.1 gapps
 * thanks to @Npjohnson
 * thanks to @erfanoabdi
 
-Project Sakura 5.2
------
-* [XDA](https://forum.xda-developers.com/t/rom-11-project-sakura-5-1-vanilla-for-griffin-unofficial.4298227/)
-* [Download vanilla](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/Project_Sakura/ProjectSakura-5.2-VANILLA-20211120-1236-griffin-UNOFFICIAL.zip/download)
-* [Download microg](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/Project_Sakura/ProjectSakura-5.2-MICROG-20211120-1553-griffin-UNOFFICIAL.zip/download)
-* [Download gapps](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/Project_Sakura/ProjectSakura-5.2-GAPPS-Core-20211120-1514-griffin-UNOFFICIAL.zip/download)
-* built by me
-
-Project Kasumi 1.0 Release Preview
------
-* [Telegram chat](https://t.me/+-3Km4jH4g1VjZDVi)
-* [Telegram changelog](https://t.me/c/1510507635/1777)
-* [Download](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/Project_Kasumi/)
-* built by me
-
 AOSP Extended 8.6 EOL
 -----
 * [Download](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/AOSP_Extended/)
@@ -74,6 +59,20 @@ Halogen OS 11 EOL
 * [Download](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/Halogen_OS/)
 * built by me
 
+Project Kasumi 1.0 Release Preview EOL
+-----
+* [Telegram chat](https://t.me/+-3Km4jH4g1VjZDVi)
+* [Telegram changelog](https://t.me/c/1510507635/1777)
+* [Download](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/Project_Kasumi/)
+* built by me
+
+Project Sakura 5.2 EOL
+-----
+* [XDA](https://forum.xda-developers.com/t/rom-11-project-sakura-5-1-vanilla-for-griffin-unofficial.4298227/)
+* [Download vanilla](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/Project_Sakura/ProjectSakura-5.2-VANILLA-20211120-1236-griffin-UNOFFICIAL.zip/download)
+* [Download microg](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/Project_Sakura/ProjectSakura-5.2-MICROG-20211120-1553-griffin-UNOFFICIAL.zip/download)
+* [Download gapps](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/Project_Sakura/ProjectSakura-5.2-GAPPS-Core-20211120-1514-griffin-UNOFFICIAL.zip/download)
+* built by me
 
 Project Xtended XR vX.r EOL
 -----
@@ -98,7 +97,7 @@ Lineage OS 17.1 Micro G
 -----
 * [Download](https://download.lineage.microg.org/griffin/)
 
-/e/OS 0.22
+/e/OS 1.3
 -----
 * [Documentation](https://doc.e.foundation/devices/griffin/)
 * [Download](https://images.ecloud.global/dev/griffin/)
