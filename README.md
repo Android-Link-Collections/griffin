@@ -202,5 +202,5 @@ official TWRP 3.3.1
 
 unofficial TWRP 3.6.2_9
 -----
-* [Download] (https://github.com/batuhantrkgl/ItzKaguya-RecoveryBuilder/releases/download/2963104012/recovery.img)
+* [Download](https://github.com/batuhantrkgl/ItzKaguya-RecoveryBuilder/releases/download/2963104012/recovery.img)
 * thanks to @batuhantrkgl
