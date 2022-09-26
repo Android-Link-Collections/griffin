@@ -144,6 +144,12 @@ ResurrectionRemix Revived 8.7.14
 * [Dowload](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/Resurrection_Remix/RROS-Q-8.7.14-20220911-griffin-Unofficial.zip/download)
 * built by me
 
+Sakura Revived 2.Q
+-----
+* [Telegram changelog](https://t.me/c/1510507635/4370)
+* [Download](https://sourceforge.net/projects/batuhan-s-builds/files/ProjectSakura/ProjectSakura-VANILLA-2.Q-20220903-1527-griffin-UNOFFICIAL.zip/download)
+* thanks to @batuhantrkgl
+
 CrDroid 6.12 EOL
 -----
 * [XDA](https://forum.xda-developers.com/t/rom-10-x-griffin-crdroid-4-5-and-6-unofficial-8-x-9-x-and-10-x.3689230/)
