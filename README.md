@@ -70,6 +70,12 @@ Halogen OS 11 EOL
 * [Download](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/Halogen_OS/)
 * built by me
 
+Havoc OS 4.19
+-----
+* [Telegram changelog](https://t.me/rgb_roms/14)
+* [Download](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/Havoc_OS/Havoc-OS-v4.19-20220909-griffin-Unofficial.zip/download)
+* built by me
+
 Project Kasumi 1.0 Release Preview EOL
 -----
 * [Telegram chat](https://t.me/+-3Km4jH4g1VjZDVi)
