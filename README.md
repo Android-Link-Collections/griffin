@@ -136,6 +136,7 @@ Lineage OS 17.1 EOL
 
 unofficial A10
 =====
+
 PixelExperince
 -----
 * [Download](https://sourceforge.net/projects/batuhan-s-builds/files/PixelExperince/PixelExperience_griffin-10.0-20221118-1155-UNOFFICIAL.zip/download)
@@ -195,8 +196,11 @@ Ubports
 
 
 Audio
------
+======
+
 * [Download](https://t.me/motozz/43771)
+
+* [Volume Booster Magisk Module](https://www.pling.com/p/1865118)
 
 Recovery
 ======
@@ -205,7 +209,7 @@ official TWRP 3.3.1
 -----
 * [Download](https://dl.twrp.me/griffin/)
 
-unofficial TWRP 3.6.2_9
+unofficial TWRP 3.7.0
 -----
-* [Download](https://github.com/batuhantrkgl/ItzKaguya-RecoveryBuilder/releases/download/2963104012/recovery.img)
+* [Download](https://sourceforge.net/projects/batuhan-s-builds/files/TWRP/Griffin/TWRP-3.7.0-griffin.img/download)
 * thanks to @batuhantrkgl
