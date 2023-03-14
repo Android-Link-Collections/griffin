@@ -7,11 +7,16 @@ unofficial A12.1
 =====
 
 LineageOS 19.1 BETA
-=====
+-----
 * [XDA](https://forum.xda-developers.com/t/rom-12-1-lineageos-19-1-beta-for-griffin-unofficial-21sep.4496379/)
-* [Telegram changelog](https://t.me/rgb_roms/20)
+* [Telegram changelog](https://t.me/rgb_roms/70)
 * [Download](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/Lineage_OS/)
 * built by me
+
+LineageOS 19.1 (A12L) [microG][OTA]
+-----
+* [XDA](https://forum.xda-developers.com/t/lineageos-19-1-a12l-microg-ota-for-moto-z-griffin.4563209/)
+* [Download](https://los-legacy.de/19.1/griffin)
 
 
 official A11
@@ -29,20 +34,20 @@ unofficial A11
 
 AICP 16.1
 -----
-* [Telegram changelog](https://t.me/c/1510507635/1736)
+* [Telegram changelog](https://t.me/rgb_roms/76)
 * [Download](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/AICP/)
 * built by me
 
-crDroid 7.14
+crDroid 7.27
 -----
 * [XDA](https://forum.xda-developers.com/t/rom-11-crdroid-7-7-for-griffin-unofficial.4296739/)
-* [Download vanilla](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/crDroid/crDroidAndroid-11.0-20220125-griffin-v7.14.zip/download)
-* [Download gapps](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/crDroid/crDroidAndroid-11.0-20220210-griffin-v7.14-GAPPS.zip/download)
+* [Download vanilla](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/crDroid/crDroidAndroid-11.0-20230217-griffin-v7.27.zip/download)
+* [Download gapps](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/crDroid/crDroidAndroid-11.0-20230217-griffin-v7.27-GAPPS.zip/download)
 * built by me
 
 Lineage OS 18.1
 -----
-* [Download](http://builds.hermies.net/griffin/)
+* [Sadly DL link is dead]
 
 Lineage OS 18.1 gapps
 -----
@@ -78,7 +83,6 @@ Havoc OS 4.19
 
 Project Kasumi 1.0 Release Preview EOL
 -----
-* [Telegram chat](https://t.me/+-3Km4jH4g1VjZDVi)
 * [Telegram changelog](https://t.me/c/1510507635/1777)
 * [Download](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/Project_Kasumi/)
 * built by me
@@ -112,9 +116,9 @@ official A10
 
 Lineage OS 17.1 Micro G
 -----
-* [Download](https://download.lineage.microg.org/griffin/)
+* [Sadly DL link is dead]
 
-/e/OS 1.3
+/e/OS 1.9
 -----
 * [Documentation](https://doc.e.foundation/devices/griffin/)
 * [Download](https://images.ecloud.global/dev/griffin/)
@@ -146,14 +150,14 @@ PixelExperince
 CarbonROM 8.0
 -----
 * [XDA](https://forum.xda-developers.com/t/rom-10-carbonrom-cr-8-0-for-griffin-unofficial-22sep.4494177/)
-* [Telegram changelog](https://t.me/rgb_roms/22)
+* [Telegram changelog](https://t.me/rgb_roms/64)
 * [Download](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/CarbonROM/)
 * built by me
 
-ResurrectionRemix Revived 8.7.14
+ResurrectionRemix Revived OCT22
 -----
 * [Telegram changelog](https://t.me/rgb_roms/16)
-* [Dowload](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/Resurrection_Remix/RROS-Q-8.7.14-20220911-griffin-Unofficial.zip/download)
+* [Dowload](https://sourceforge.net/projects/sirrgb-roms/files/Griffin/Resurrection_Remix/)
 * built by me
 
 Sakura Revived 2.Q
@@ -174,7 +178,7 @@ official A9
 omnirom 9 EOL
 -----
 * [XDA](https://forum.xda-developers.com/t/rom-9-0-mods-official-omnirom.3881462/)
-* [Download](https://dl.omnirom.org/griffin/)
+* [Sadly DL link is dead]
 
 
 official A8.1
@@ -189,18 +193,20 @@ AOKP alpha EOL
 Linux
 ======
 
-Ubports
+UBports
 -----
 * [Instructions](https://t.me/motozz/39148)
+* [Download](https://t.me/c/1510507635/4866)
 * thanks to @erfanoabdi
 
 
 Audio
 ======
 
-* [Download](https://t.me/motozz/43771)
+* [MotoDolby-GPro](https://t.me/motozz/43771)
 
 * [Volume Booster Magisk Module](https://www.pling.com/p/1865118)
+
 
 Recovery
 ======
